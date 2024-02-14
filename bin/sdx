@@ -1,0 +1,3 @@
+#!/bin/bash
+
+tclsh $(dirname $DIRENV_FILE)/tclkit/sdx/main.tcl "$@"

@@ -1,0 +1,3 @@
+[submodule "tclkit"]
+	path = tclkit
+	url = https://github.com/ikrabbe/tclkit.git
